@@ -42,8 +42,7 @@ Git (optional, for cloning the repository)
 Steps to Run Locally:
 Clone the Repository:
 
-bash
-Copy code
+
 git clone https://github.com/<your-username>/Book-Recommendation-System.git
 cd Book-Recommendation-System
 Install Dependencies:
@@ -71,8 +70,7 @@ Book titles
 Authors
 Ratings
 Popularity metrics
-Source:
-[Dataset Source/Link if available]
+ 
 
 Future Enhancements
 User Login and Profiles: Save user preferences and interaction history.
